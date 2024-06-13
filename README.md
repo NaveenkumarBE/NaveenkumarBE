@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi! 👋
 
-<!--
-**NaveenkumarBE/NaveenkumarBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/NaveenkumarBE/NaveenkumarBE/master/banner.png" alt="Banner about Naveenkumar Palani">
 
-Here are some ideas to get you started:
+I'm Naveen and i'm full stack web / app developer with more then 2 years experience.
+I have been working in various fields, starting from Electrical Engineer and ending with Software Engineer.
+I have always been hard working and goal's focused with proven results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### TECH STACK
+
+C# / .NET Core / ASP .NET / EntityFrameWork / LINQ / Microsoft SQL / Angular / React / HTML / CSS / JS / BOOSTRAP / GITHUB / REST API  / AZURE Devops
+
+##### MOTTO
+
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
