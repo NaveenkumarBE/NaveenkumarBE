@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<img src="https://raw.githubusercontent.com/NaveenkumarBE/NaveenkumarBE/master/banner.png" alt="Banner about Naveenkumar Palani">
+<img src="https://raw.githubusercontent.com/NaveenkumarBE/NaveenkumarBE/master/banner.jpg" alt="Banner about Naveenkumar Palani">
 
 I'm Naveen and i'm full stack web / app developer with more then 2 years experience.
 I have been working in various fields, starting from Electrical Engineer and ending with Software Engineer.
