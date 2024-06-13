@@ -12,4 +12,4 @@ C# / .NET Core / ASP .NET / EntityFrameWork / LINQ / Microsoft SQL / Angular / R
 
 ##### MOTTO
 
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+> The best way to predict your future is to create it. - Henry J. Kaiser
